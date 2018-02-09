@@ -8,19 +8,22 @@
             "id": "03",
           "title": "Piano Sonata No. 3",
           "artist": "Beethoven",
-          "genra": "classic"
+          "genra": "classic",
+          "lenght": "3:45"
         },
         {
             "id": "07",
           "title": "Piano Sonata No. 7",
           "artist": "Beethoven",
-          "genra": "classic"
+          "genra": "classic",
+          "lenght": "3:45"
         },
         {
             "id": "10",
           "title": "Piano Sonata No. 10",
           "artist": "Beethoven",
-          "genra": "classic"
+          "genra": "classic",
+          "lenght": "3:45"
         }
       ]
     }, 
@@ -33,19 +36,24 @@
           "title": "Piano Concerto No. 0",
           "artist": "Beethoven",
           
-          "genra": "classic"
+          "genra": "classic",
+          "lenght": "3:45"
         },
         {
             "id": "04",
           "title": "Piano Concerto No. 4",
           "artist": "Beethoven",
           
-          "genra": "classic"
+          "genra": "classic",
+          "lenght": "3:45"
         },
         {
             "id": "06",
           "title": "Piano Concerto No. 6",
-          "artist": "Beethoven"
+          "artist": "Beethoven",
+          
+          "genra": "classic",
+          "lenght": "3:45"
         }
       ]
     },
@@ -56,17 +64,25 @@
         {
             "id": "011",
           "title": "who let the dogs out",
-          "artist": "Beethoven"
+          "artist": "Beethoven",
+          
+          "genra": "classic",
+          "lenght": "3:45"
         },
         {
             "id": "12",
           "title": "if your happy and you know it",
-          "artist": "Beethoven"
+          "artist": "Beethoven",
+          
+          "genra": "classic",
+          "lenght": "3:45"
         },
         {
             "id": "13",
-          "title": "this is not a song its just three minutes of silance just so you can have a break from these hard beats or if you want to make someone check if their speaker is broken and then suprise! next song,or whatever im a song title not your mom",
-          "artist": "Beethoven"
+          "title": "this is also a song",
+          "artist": "Beethoven",
+          "genra": "classic",
+          "lenght": "3:45"
         }
       ]
     }
