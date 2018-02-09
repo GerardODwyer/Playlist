@@ -2,17 +2,17 @@
 
 const logger = require('../utils/logger');
 const sonatas = require('../models/playlist-store.js');
+const playlistCollection = require('../models/playlist-store.js');
 
 const dashboard = {
   index(request, response) {
     logger.info('dashboard rendering');
     const viewData = {
       title: 'Playlist Dashboard',
-      playlist: sonatas,
+      playlists: playlistCollection,
     };
-    logger.info('about to render', sonatas);
+    logger.info('about to render', playlistCollection);
     response.render('dashboard', viewData);
   },
 };
-
 module.exports = dashboard;
