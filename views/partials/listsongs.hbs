@@ -5,30 +5,16 @@
       <th>Artist</th>
     </tr>
   </thead>
- <tbody>
+  <tbody>
+   {{#each playlist.songs}}
   <tr>
     <td>
-      Piano Sonata No. 3
+      {{title}}
     </td>
     <td>
-      Beethoven
+      {{artist}}
     </td>
   </tr>
-  <tr>
-    <td>
-      Piano Sonata No. 7
-    </td>
-    <td>
-      Beethoven
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Piano Sonata No. 10
-    </td>
-    <td>
-      Beethoven
-    </td>
-  </tr>
-</tbody>
+{{/each}}
+  </tbody>
 </table>
