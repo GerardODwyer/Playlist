@@ -1,18 +1,6 @@
-# My cool website
+Welcome to the GLitch Template 1
+==============================
 
-This file describes your project to the community. What's your cool website about? What makes it special?
+A starter project for learning Glitch.
 
-ヽ(๏∀๏ )ﾉ
-
-## ← index.html
-
-Where you'll write the content of your website. 
-
-## ← styles.css
-
-CSS files add styling rules to your content
-
-## ← script.js
-
-If you're feeling fancy you can add interactivity to your site with Javascript
-
+This is an Express.js project, designed to work well with the Glitch development environment. It includes basic express setup, templating, routing and session support.
